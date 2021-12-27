@@ -1,0 +1,10 @@
+F:\iti\الأسبوع العاشر\ADO\D01\TaskAdoD01\TaskAdoD01\bin\Debug\TaskAdoD01.exe.config
+F:\iti\الأسبوع العاشر\ADO\D01\TaskAdoD01\TaskAdoD01\bin\Debug\TaskAdoD01.exe
+F:\iti\الأسبوع العاشر\ADO\D01\TaskAdoD01\TaskAdoD01\bin\Debug\TaskAdoD01.pdb
+F:\iti\الأسبوع العاشر\ADO\D01\TaskAdoD01\TaskAdoD01\obj\Debug\TaskAdoD01.csproj.AssemblyReference.cache
+F:\iti\الأسبوع العاشر\ADO\D01\TaskAdoD01\TaskAdoD01\obj\Debug\TaskAdoD01.Form1.resources
+F:\iti\الأسبوع العاشر\ADO\D01\TaskAdoD01\TaskAdoD01\obj\Debug\TaskAdoD01.Properties.Resources.resources
+F:\iti\الأسبوع العاشر\ADO\D01\TaskAdoD01\TaskAdoD01\obj\Debug\TaskAdoD01.csproj.GenerateResource.cache
+F:\iti\الأسبوع العاشر\ADO\D01\TaskAdoD01\TaskAdoD01\obj\Debug\TaskAdoD01.csproj.CoreCompileInputs.cache
+F:\iti\الأسبوع العاشر\ADO\D01\TaskAdoD01\TaskAdoD01\obj\Debug\TaskAdoD01.exe
+F:\iti\الأسبوع العاشر\ADO\D01\TaskAdoD01\TaskAdoD01\obj\Debug\TaskAdoD01.pdb
